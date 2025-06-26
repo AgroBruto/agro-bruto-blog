@@ -1,3 +1,11 @@
+---
+layout: page
+title: "Inovação"
+permalink: /inovacao/
+---
+
+Tecnologias emergentes e soluções inteligentes aplicadas ao agro.
+
 # 🚀 Inovação, AgTech & Inteligência Territorial
 
 ## O agro do futuro é digital, conectado, inteligente e regenerativo
