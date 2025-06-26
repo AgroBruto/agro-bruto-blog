@@ -34,3 +34,12 @@ exclude:
 
 # Configurações de timezone
 timezone: America/Sao_Paulo
+# Faz com que arquivos dentro de _pages/ sejam renderizados como páginas
+defaults:
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      layout: page
+      permalink: /:basename/
+
