@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Geopolítica"
+title: "Geopolítica" 
 permalink: /geopolitica/
 ---
 
