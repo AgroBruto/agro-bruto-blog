@@ -1,3 +1,11 @@
+---
+layout: page
+title: "Mercado"
+permalink: /mercado/
+---
+
+Acompanhe indicadores e tendências de preços de commodities, mercado interno e externo.
+
 # 📈 Mercado & Commodities
 
 ## O agro é mercado
