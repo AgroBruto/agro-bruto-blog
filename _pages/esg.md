@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "ESG"
-permalink: /esg/
+permalink: /esg/ 
 ---
 
 Sustentabilidade, governança e boas práticas no agronegócio moderno.
