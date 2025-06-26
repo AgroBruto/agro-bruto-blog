@@ -1,3 +1,11 @@
+---
+layout: page
+title: "ESG"
+permalink: /esg/
+---
+
+Sustentabilidade, governança e boas práticas no agronegócio moderno.
+
 # 🌱 ESG & Desenvolvimento Territorial
 
 ## Sustentabilidade é mais que discurso. É vantagem competitiva.
