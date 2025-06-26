@@ -4,7 +4,7 @@ title: "Sobre o Agro Bruto"
 permalink: /sobre/
 ---
 
-# Sobre o Agro Bruto
+
 
 ## Nossa Missão
 
