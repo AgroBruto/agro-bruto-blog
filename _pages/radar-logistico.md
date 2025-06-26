@@ -1,3 +1,11 @@
+---
+layout: page
+title: "Radar Logístico"
+permalink: /radar-logistico/
+---
+
+Nesta seção, você encontra análises e atualizações sobre a infraestrutura logística do agronegócio.
+
 # 🚂 Radar Logístico & Infraestrutura
 
 ## O Agro começa no campo, mas ganha potência nos trilhos, portos e rodovias
