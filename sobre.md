@@ -51,7 +51,7 @@ Mapeamento de tecnologias emergentes, startups do setor e tendências que moldar
 
 ## Contato
 
-- **Email**: contato@agrobruto.com
+- **Email**: goncalvesecodeepbusinesshub@gmail.com
 - **GitHub**: [@AgroBruto](https://github.com/AgroBruto)
 - **Localização**: Brasil - Foco na América do Sul
 
