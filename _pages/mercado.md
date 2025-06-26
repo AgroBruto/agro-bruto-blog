@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mercado"
-permalink: /mercado/
+permalink: /mercado/ 
 ---
 
 Acompanhe indicadores e tendências de preços de commodities, mercado interno e externo.
