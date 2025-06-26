@@ -1,3 +1,11 @@
+---
+layout: page
+title: "Geopolítica"
+permalink: /geopolitica/
+---
+
+Explore os impactos da geopolítica internacional sobre o agro brasileiro e sul-americano.
+
 # 🌍 Geopolítica, Exportações & Mercados
 
 ## O agro não é local — é global
