@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Geopolítica" 
-permalink: /geopolitica/
+permalink: agro-bruto-blog/_pages/geopolitica/
 ---
 
 Explore os impactos da geopolítica internacional sobre o agro brasileiro e sul-americano.
