@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page 
 title: "Radar Logístico"
 permalink: /radar-logistico/
 ---
