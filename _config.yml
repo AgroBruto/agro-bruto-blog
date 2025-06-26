@@ -1,0 +1,36 @@
+# Configurações do Site
+title: "Agro Bruto"
+subtitle: "Inteligência Estratégica para o Agronegócio"
+description: "Hub de análise e inteligência para o agronegócio brasileiro e sul-americano"
+baseurl: ""
+url: "https://agrobruto.github.io"
+
+# Autor
+author:
+  name: "Agro Bruto"
+  email: "contato@agrobruto.com"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Configurações de permalink
+permalink: /:categories/:year/:month/:day/:title/
+
+# Configurações de paginação
+paginate: 10
+paginate_path: "/page:num/"
+
+# Exclusões
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Configurações de timezone
+timezone: America/Sao_Paulo
