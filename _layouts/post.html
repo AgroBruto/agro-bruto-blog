@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<article class="post">
+    <header class="post-header">
+        <div class="container">
+            <div class="post-meta">
+                <span class="category">{{ page.category | upcase }}</span>
+                <time datetime="{{ page.date | date_to_xmlschema }}">
+                    {{ page.date | date: "%d de %B de %Y" }}
+                </time>
+            </div>
+            <h1 class="post-title">{{ page.title }}</h1>
+            {% if page.excerpt %}
+                <p class="post-excerpt">{{ page.excerpt }}</p>
+            {% endif %}
+        </div>
+    </header>
+
+    <div class="post-content">
+        <div class="container">
+            {{ content }}
+        </div>
+    </div>
+
+    <footer class="post-footer">
+        <div class="container">
+            {% if page.tags %}
+                <div class="post-tags">
+                    <strong>Tags:</strong>
+                    {% for tag in page.tags %}
+                        <span class="tag">{{ tag }}</span>
+                    {% endfor %}
+                </div>
+            {% endif %}
+            
+            <div class="post-navigation">
+                {% if page.previous.url %}
+                    <a class="prev-post" href="{{ page.previous.url | relative_url }}">
+                        ← {{ page.previous.title }}
+                    </a>
+                {% endif %}
+                
+                {% if page.next.url %}
+                    <a class="next-post" href="{{ page.next.url | relative_url }}">
+                        {{ page.next.title }} →
+                    </a>
+                {% endif %}
+            </div>
+        </div>
+    </footer>
+</article>
