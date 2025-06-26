@@ -2,13 +2,13 @@
 title: "Agro Bruto"
 subtitle: "Inteligência Estratégica para o Agronegócio"
 description: "Hub de análise e inteligência para o agronegócio brasileiro e sul-americano"
-baseurl: ""
+baseurl: "/agro-bruto-blog"
 url: "https://agrobruto.github.io"
 
 # Autor
 author:
   name: "Agro Bruto"
-  email: "contato@agrobruto.com"
+  email: "goncalvesecodeepbusinesshub@gmail.com"
 
 # Build settings
 markdown: kramdown
