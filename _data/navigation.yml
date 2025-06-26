@@ -1,0 +1,49 @@
+main:
+  - title: "Home"
+    url: "/"
+    
+  - title: "🚂 Radar Logístico"
+    url: "/categoria/radar-logistico/"
+    
+  - title: "🌍 Geopolítica"
+    url: "/categoria/geopolitica/"
+    
+  - title: "📈 Mercado"
+    url: "/categoria/mercado/"
+    
+  - title: "🌱 ESG"
+    url: "/categoria/esg/"
+    
+  - title: "🚀 Inovação"
+    url: "/categoria/inovacao/"
+    
+  - title: "Sobre"
+    url: "/sobre/"
+
+footer:
+  - title: "Especialidades"
+    links:
+      - title: "Radar Logístico"
+        url: "/categoria/radar-logistico/"
+      - title: "Geopolítica"
+        url: "/categoria/geopolitica/"
+      - title: "Mercado & Commodities"
+        url: "/categoria/mercado/"
+      - title: "ESG & Sustentabilidade"
+        url: "/categoria/esg/"
+        
+  - title: "Recursos"
+    links:
+      - title: "Todos os Posts"
+        url: "/posts/"
+      - title: "Arquivo"
+        url: "/arquivo/"
+      - title: "Tags"
+        url: "/tags/"
+        
+  - title: "Contato"
+    links:
+      - title: "GitHub"
+        url: "https://github.com/AgroBruto"
+      - title: "Email"
+        url: "mailto:contato@agrobruto.com"
