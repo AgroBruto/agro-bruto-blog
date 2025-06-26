@@ -1,65 +1,66 @@
----
-layout: page
-title: "Radar Logístico"
-permalink: /logistica/
----
-
-Nesta seção, você encontra análises e atualizações sobre a infraestrutura logística do agronegócio.
 # 🚂 Radar Logístico & Infraestrutura
 
-## O Agro ganha potência nos trilhos, portos e rodovias
+## O Agro começa no campo, mas ganha potência nos trilhos, portos e rodovias
 
-O agro brasileiro começa no campo, mas sua competitividade se define na infraestrutura. Esta seção acompanha o desenvolvimento dos corredores logísticos que sustentam o agronegócio nacional e sul-americano.
+O desenvolvimento das infraestruturas logísticas é fundamental para sustentar a competitividade do agro brasileiro e sul-americano. Esta seção monitora os principais projetos que moldam o futuro do transporte de commodities e conectam o campo aos mercados globais.
 
-## 🎯 Nossa Missão
-
-Monitorar, analisar e mapear os principais projetos de infraestrutura que impactam diretamente a competitividade do agro brasileiro, fornecendo inteligência estratégica para tomada de decisão.
-
-## 📊 O que Monitoramos
+## 🎯 Nossa Cobertura
 
 ### Principais Projetos Ferroviários
-- **Ferrovia Estadual do Mato Grosso** - Conectando o coração produtivo do país
-- **Ferronorte** - Corredor estratégico Norte-Sul
-- **Ferrogrão** - A ferrovia que pode revolucionar o escoamento da soja
-- **FICO** - Ferrovia de Integração Centro-Oeste
-- **FIOL** - Ferrovia de Integração Oeste-Leste
-- **Ferroeste** - Ligação estratégica com o Paraguai
-- **Transnordestina** - Desenvolvimento do Nordeste
+- **Ferrovia Estadual do Mato Grosso**: Conexão estratégica do Centro-Oeste
+- **Ferronorte**: Ligação Norte-Sul para escoamento de grãos
+- **Ferrogrão**: Corredor de exportação pela região Norte
+- **FICO**: Ferrovia de Integração Centro-Oeste
+- **FIOL**: Ferrovia de Integração Oeste-Leste
+- **Ferroeste**: Corredor logístico do Oeste brasileiro
+- **Transnordestina**: Ligação do Nordeste aos portos estratégicos
 
-### Análises de Impacto
-- Redução de custos logísticos por corredor
-- Impacto na competitividade internacional
-- Desenvolvimento regional e territorial
-- ROI dos investimentos em infraestrutura
+### Análises Estratégicas
+- **Impacto nos Custos Logísticos**: Como cada projeto afeta os custos de transporte
+- **Competitividade Internacional**: Posicionamento do Brasil no mercado global
+- **Desenvolvimento Regional**: Transformação dos territórios conectados
 
 ### Acompanhamento Executivo
-- **Cronogramas** de obras e marcos regulatórios
-- **Concessões** e modelagem de investimentos
-- **Stakeholders** chave: operadores, governos, fundos
-- **Marcos legais** e mudanças regulatórias
+- ✅ **Cronogramas e Marcos**: Status atualizado dos projetos
+- 💰 **Investimentos**: Volumes investidos e necessidades futuras
+- 📋 **Concessões**: Modelos regulatórios e operadores
+- ⚖️ **Marco Legal**: Mudanças regulatórias e impactos
 
-## 🌐 Integração Intermodal
+## 🗺️ Mapeamento de Stakeholders
 
-Mapeamos como os diferentes modais se integram para criar corredores eficientes:
+### Empresas Operadoras
+Análise das principais concessionárias e seus modelos de negócio
 
-- **Portos** - Capacidade, investimentos e gargalos
-- **Rodovias** - Estado, pedágios e conexões estratégicas  
-- **Hidrovias** - Potencial navegável e investimentos
-- **Zonas Logísticas** - Hubs multimodais e centros de distribuição
+### Governos e Reguladores
+Monitoramento de políticas públicas e marcos regulatórios
 
-## 💡 Inteligência Estratégica
+### Fundos de Infraestrutura
+Tracking de investimentos privados e multilaterais
 
-Transformamos dados de infraestrutura em insights acionáveis:
+## 🔗 Integração Intermodal
 
-- Análise de viabilidade de novos corredores
-- Impacto de obras na precificação de commodities  
-- Oportunidades de investimento em logística
-- Riscos e cenários para cadeias produtivas
+A logística moderna exige integração entre diferentes modais:
 
-## 🎯 Nosso Objetivo
+- **Portos**: Capacidade e modernização dos terminais
+- **Rodovias**: Condições e projetos de melhorias
+- **Hidrovias**: Potencial de navegação interior
+- **Zonas Logísticas**: Hubs de distribuição e armazenagem
 
-**Reduzir o Custo Brasil**, aumentar a eficiência logística do agro e acelerar o desenvolvimento dos territórios conectados pelos trilhos.
+## 🌍 Nossa Visão
+
+**Reduzir o custo Brasil, aumentar a eficiência logística do agro e acelerar o desenvolvimento dos territórios conectados pelos trilhos.**
 
 ---
 
-*Acompanhe nossos relatórios semanais de infraestrutura e receba alertas sobre os principais desenvolvimentos que impactam o agronegócio brasileiro.*
+*Última atualização: Acompanhe as análises semanais sobre infraestrutura logística no Brasil*
+
+## 📊 Indicadores-Chave
+- Custo médio por tonelada/km por modal
+- Tempo médio de transporte por corredor
+- Capacidade instalada vs. demanda projetada
+- Investimentos aprovados vs. executados
+
+## 🔍 Próximas Análises
+- Impacto da Ferrogrão na competitividade da soja
+- Modernização portuária e gargalos logísticos
+- Hidrovias: o potencial subutilizado do Brasil
