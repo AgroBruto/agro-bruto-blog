@@ -18,9 +18,9 @@ Nossas análises estão estruturadas em cinco pilares fundamentais para oferecer
 
 O blog é atualizado regularmente com análises estratégicas assinadas pelo **Agro Bruto Team**. Alguns dos nossos tópicos mais recentes incluem:
 
+*   **Mariangela Hungria & Embrapa (Bilíngue)**: A trajetória da pesquisadora brasileira laureada com o "Nobel da Agricultura" e o impacto da ciência tropical.
 *   **Recuperação Judicial no Agro**: Uma análise profunda das tendências de 2025 e perspectivas para 2026.
 *   **Ferrogrão e Logística**: Impactos das novas ferrovias no custo Brasil.
-*   **Acordos China-Brasil**: O futuro das exportações de soja e milho.
 
 ---
 © 2026 Agro Bruto Team. Todos os direitos reservados.
