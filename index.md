@@ -34,7 +34,7 @@ O **Agro Bruto** é seu hub de análise e inteligência para o agronegócio bras
 
 ## 📊 Últimas Análises
 
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:5 %}
 <article class="post-preview">
   <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
   <div class="post-meta">
@@ -45,4 +45,4 @@ O **Agro Bruto** é seu hub de análise e inteligência para o agronegócio bras
 </article>
 {% endfor %}
 
-<a href="{{ site.baseurl }}/posts" class="view-all">Ver todas as análises →</a>
+<a href="{{ site.baseurl }}/arquivo" class="view-all">Ver todas as análises no Arquivo →</a>
