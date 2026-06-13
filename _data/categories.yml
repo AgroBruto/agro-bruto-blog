@@ -1,25 +1,24 @@
-categories:
-  - name: "radar-logistico"
-    title: "🚂 Radar Logístico & Infraestrutura"
-    description: "Ferrovias, portos, rodovias e infraestrutura logística do agronegócio"
-    color: "#ff6b35"
-    
-  - name: "geopolitica"
-    title: "🌍 Geopolítica & Exportações"
-    description: "Mercados globais, acordos comerciais e movimentos geopolíticos"
-    color: "#004e89"
-    
-  - name: "mercado"
-    title: "📈 Mercado & Commodities"
-    description: "Preços, tendências, análise econômica e inteligência de mercado"
-    color: "#009639"
-    
-  - name: "esg"
-    title: "🌱 ESG & Desenvolvimento Territorial"
-    description: "Sustentabilidade, ESG e desenvolvimento regional sustentável"
-    color: "#7cb518"
-    
-  - name: "inovacao"
-    title: "🚀 Inovação & AgTech"
-    description: "Tecnologia, startups, inteligência territorial e inovação no agro"
-    color: "#9a031e"
+- name: "radar-logistico"
+  title: "🚂 Radar Logístico & Infraestrutura"
+  description: "Ferrovias, portos, rodovias e infraestrutura logística do agronegócio"
+  color: "#ff6b35"
+
+- name: "geopolitica"
+  title: "🌍 Geopolítica & Exportações"
+  description: "Mercados globais, acordos comerciais e movimentos geopolíticos"
+  color: "#004e89"
+
+- name: "mercado"
+  title: "📈 Mercado & Commodities"
+  description: "Preços, tendências, análise econômica e inteligência de mercado"
+  color: "#009639"
+
+- name: "esg"
+  title: "🌱 ESG & Desenvolvimento Territorial"
+  description: "Sustentabilidade, ESG e desenvolvimento regional sustentável"
+  color: "#7cb518"
+
+- name: "inovacao"
+  title: "🚀 Inovação & AgTech"
+  description: "Tecnologia, startups, inteligência territorial e inovação no agro"
+  color: "#9a031e"
