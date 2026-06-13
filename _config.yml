@@ -19,6 +19,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# Publicar posts com data presente/futura
+future: true
+
 # Configurações de permalink
 permalink: /:categories/:year/:month/:day/:title/
 
@@ -34,6 +37,7 @@ exclude:
 
 # Configurações de timezone
 timezone: America/Sao_Paulo
+
 # Faz com que arquivos dentro de _pages/ sejam renderizados como páginas
 defaults:
   - scope:
@@ -42,4 +46,3 @@ defaults:
     values:
       layout: page
       permalink: /:basename/
-
