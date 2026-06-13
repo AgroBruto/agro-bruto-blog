@@ -22,8 +22,8 @@ plugins:
 # Publicar posts com data presente/futura
 future: true
 
-# Configurações de permalink
-permalink: /:categories/:year/:month/:day/:title/
+# Permalink sem categoria — evita quebra quando category é singular
+permalink: /:year/:month/:day/:title/
 
 # Configurações de paginação
 paginate: 10
